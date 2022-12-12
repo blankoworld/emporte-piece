@@ -1,0 +1,11 @@
+# TODO list
+
+* Makefile
+* Script qui prend des arguments pour générer certaines variables en X fois ?
+* Le script génère depuis les arguments un fichier temporaire qu'on va compléter
+* On relance le script (ou le Makefile) pour générer le fichier final
+
+# DONE
+
+* template HTML
+* remplacement de chaîne ${}
